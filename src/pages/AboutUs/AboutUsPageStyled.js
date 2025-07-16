@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const AboutUsWrapper = styled.div`
   max-width: 1316px;
   width: 100%;
-  margin: 15px auto 0 auto;
+  margin: 100px auto 0 auto;
 
   .company {
     display: flex;
